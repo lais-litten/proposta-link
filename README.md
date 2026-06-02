@@ -1,4 +1,4 @@
-# Proposta Solax — Documentação para Desenvolvimento
+# +BESS — Proposta Solax | Documentação para Desenvolvimento
 
 > **Status:** Protótipo visual em finalização. HTML e assets sendo entregues em paralelo.  
 > Dúvidas: Laís — lais@litten.com.br
@@ -7,13 +7,17 @@
 
 ## O que é este projeto
 
-Gerador de propostas personalizadas para integradores de energia solar (baterias Solax).  
+A plataforma **+BESS** gera propostas personalizadas para integradores de energia solar.  
+Esta é a proposta do fabricante **Solax** — serão ao total **4 fabricantes**, cada um com sua proposta.
+
 O integrador preenche um formulário na plataforma → os dados são injetados nos tokens `##token##` → a proposta é gerada e exibida ao cliente final.
 
 **Três perfis de conteúdo:**
 - **Plataforma / dev** — injeta os tokens e serve os arquivos
 - **Integrador** — preenche os dados e sobe suas próprias imagens
 - **Fabricante (Solax)** — imagens e logos já vêm embutidos na proposta
+
+> Os outros 3 fabricantes terão propostas no mesmo formato — tokens e estrutura de arquivos serão os mesmos ou similares.
 
 ---
 
